@@ -6,6 +6,7 @@ body {
 
 #area_game {
   width: 1004px;
+  height: 1075px;
   margin: auto;
   padding: 0;
   position: relative;
@@ -21,14 +22,14 @@ body {
   text-transform: uppercase;
   font-weight: 600; }
 
-.area_game__user_message {
+.area_game__user-message {
   text-align: center;
   color: #87ccff;
   font-weight: 600;
   font-size: 36px;
   text-transform: uppercase; }
 
-#area_game__user_message--msg {
+#area_game__user-message--msg {
   color: #ececec; }
 
 #area_game__table {
@@ -39,7 +40,7 @@ body {
   width: 118px;
   height: 118px;
   cursor: pointer;
-  background: url("../img/border.png") repear center; }
+  background: url("../img/border.png") repeat center; }
 
 #area_game__table > thead > tr > td > p,
 #area_game__table > tbody > tr > td > p {
@@ -60,7 +61,8 @@ body {
 #crdInput {
   width: 227px;
   padding: 5px;
-  font-size: 13px; }
+  font-size: 13px;
+  border: 1px solid #4E6DA2; }
 
 #btnShot {
   padding: 5px;

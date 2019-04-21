@@ -1,14 +1,14 @@
 body {
     background: #212733;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     font-family: Verdana;
 }
 #area_game {
     width: 1004px;
     height: 1075px;
     margin: auto;
-    padding: 0px;
+    padding: 0;
     position: relative;
     background: url("../img/bg.png") no-repeat;
 }
@@ -54,7 +54,7 @@ body {
     color: rgba(135, 204, 255, 0.72);
 }
 #area_game__form {
-    margin: 0px;
+    margin: 0;
     padding: 7px;
     background-color: #30384E;
 }
